@@ -2,12 +2,11 @@
 
 <h1 align="center">Hey There 👋, I'm Mayank Diwakar</h1>
 <h3 align="center">A Full-stack web developer from India</h3>
-<h3 align="center">" Code Never Lies "</h3>
 <br/>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-080&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank0303" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mayank0303&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank0303" /> </p>
 
 <p align="left"> <a href="https://twitter.com/MaikuMaybe" target="blank"><img src="https://img.shields.io/twitter/follow/MaikuMaybe?logo=twitter&style=for-the-badge" alt="Mayank0303" /></a> </p>
 
@@ -22,10 +21,9 @@ https://medium.com/@mail2mayankdiwakar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishal_rathod01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mayank0303" height="30" width="40" /></a>
+<a href="https://twitter.com/MaikuMaybe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mayank0303" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mayankdiwakar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayankdiwakar03" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/vrathod591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/vrathod591" height="30" width="40" /></a>
-<a href="https://medium.com/@vrathod591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Mayank0303" height="30" width="40" /></a>
+<a href="https://medium.com/@mail2mayankdiwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Mayank0303" height="30" width="40" /></a>
 </p>
 <br/>
 <br/>
@@ -43,7 +41,7 @@ https://medium.com/@mail2mayankdiwakar
 <br/>
 <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-080&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Mayank0303" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank0303&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Mayank0303" /></p>
 <br/>
 <br/>
 <br/>
