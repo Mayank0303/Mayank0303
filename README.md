@@ -10,7 +10,12 @@
 
 <p align="left"> <a href="https://twitter.com/MaikuMaybe" target="blank"><img src="https://img.shields.io/twitter/follow/MaikuMaybe?logo=twitter&style=for-the-badge" alt="Mayank0303" /></a> </p>
 
-- 🌱 I’m currently learning **React , DSA**
+- I’m Mayank Diwakar, a passionate full stack web
+ developer from India. My passion for software lies 
+ with dreaming up ideas and making them come 
+ true with elegant interfaces. 
+ 💻Good in working with React and Redux with other 
+    UI libraries.
 - 📫 How to reach me **mail2mayankdiwakar@gmail.com**
 
 ### Blogs posts
